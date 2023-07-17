@@ -1,4 +1,4 @@
-name: Reusable workflow
+name: Compliance check
 on:
   repository_dispatch:
     types: [org-workflow-bot]
