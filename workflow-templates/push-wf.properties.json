@@ -1,0 +1,4 @@
+{
+    "name": "Testing cpush workflow for non default branch",
+    "description": "This is a workflow property file with name push-wf.yml"
+}
