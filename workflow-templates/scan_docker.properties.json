@@ -1,1 +1,4 @@
-
+{
+    "name": "Scan docker json file",
+    "description": "This is a ref to scan_docker.yml"
+}
