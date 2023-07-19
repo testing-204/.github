@@ -1,6 +1,6 @@
 name: Checking for dispatch
 on:
-  workflow_dispatch:
+  workflow_call:
   # repository_dispatch:
   #   types: [org-workflow-bot]
     
