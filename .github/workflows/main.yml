@@ -1,8 +1,8 @@
-name: Checking for dispatch
+name: compliance-check
+
 on:
-  workflow_call:
-  # repository_dispatch:
-  #   types: [org-workflow-bot]
+  repository_dispatch:
+    types: [org-workflow-bot]
     
 jobs:
   main:
