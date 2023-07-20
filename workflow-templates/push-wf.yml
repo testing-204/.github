@@ -4,8 +4,8 @@ on:
   pull_request:
 
 jobs:
-  name: job-1
   main:
+    name: job-1
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
